@@ -1,63 +1,53 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tredfixx.tk" resolutions="1x" timestamp="1519149640092">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bdsciencezone.com" resolutions="1x" timestamp="1519531270367">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="203934853" ref="index"/>
+    <file name="periodic-moton.css" crc="60197262" ref="periodic-moton"/>
+    <file name="chemistry.css" crc="44767956" ref="chemistry"/>
+    <file name="physics.css" crc="4284182777" ref="physics"/>
+    <file name="math.css" crc="44767956" ref="math"/>
+    <file name="biology.css" crc="44767956" ref="biology"/>
+    <file name="index.css" crc="3971408911" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
-    <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:physics:chemistry:biology:math:periodic-moton"/>
+    <file name="museutils.js" crc="163421577" ref="index:physics:chemistry:biology:math:periodic-moton"/>
+    <file name="whatinput.js" crc="86476730" ref="index:physics:chemistry:biology:math:periodic-moton"/>
+    <file name="museconfig.js" crc="36584860" ref="index:physics:chemistry:biology:math:periodic-moton"/>
+    <file name="webpro.js" crc="3848665353" ref="index:physics:periodic-moton"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:physics:periodic-moton"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:physics:periodic-moton"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:physics:periodic-moton"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:physics:chemistry:biology:math:periodic-moton"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="form_check.php" crc="158155501" ref="index"/>
-    <file name="form_throttle.php" crc="3992970984" ref="index"/>
-    <file name="form_process.php" crc="4078697226" ref="index"/>
-    <file name="form-u521.php" crc="178068046" ref="index"/>
     <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index:physics:chemistry:biology:math:periodic-moton"/>
   </folder>
   <folder name="images">
-    <file name="s-1.jpg" crc="141301457" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="s-2.jpg" crc="4275831542" seo="true" ref="index"/>
-    <file name="ar2.png" crc="54280652" ref="index"/>
-    <file name="ar.png" crc="396165195" ref="index"/>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="apple-app-store-icon.png" crc="4079114188" seo="true" ref="index"/>
-    <file name="andromic-favicon2.png" crc="4126566863" seo="true" ref="index"/>
-    <file name="web_design.png" crc="4179770717" seo="true" ref="index"/>
-    <file name="seo-icon.png" crc="250563307" seo="true" ref="index"/>
-    <file name="walpaper.jpg" crc="398925022" ref="index"/>
-    <file name="sunrise-73074_640230x153.jpg" crc="441171787" seo="true" ref="index"/>
-    <file name="gobi-692640_640230x154.jpg" crc="180571634" seo="true" ref="index"/>
-    <file name="pier-674722_640230x154.jpg" crc="4099023002" seo="true" ref="index"/>
-    <file name="sky-690293_640249x140.jpg" crc="148313207" seo="true" ref="index"/>
-    <file name="sunset-675847_640230x154.jpg" crc="4184427098" seo="true" ref="index"/>
-    <file name="tulip-690320_640230x153.jpg" crc="4292874239" seo="true" ref="index"/>
-    <file name="landscape-411712_640230x147.jpg" crc="332890782" seo="true" ref="index"/>
-    <file name="pine-273826_640230x154.jpg" crc="4149482106" seo="true" ref="index"/>
-    <file name="sunrise-73074_640.jpg" crc="4038601162" seo="true" ref="index"/>
-    <file name="gobi-692640_640.jpg" crc="4143973373" seo="true" ref="index"/>
-    <file name="pier-674722_640.jpg" crc="297570731" seo="true" ref="index"/>
-    <file name="sky-690293_640.jpg" crc="61486768" seo="true" ref="index"/>
-    <file name="sunset-675847_640.jpg" crc="111212257" seo="true" ref="index"/>
-    <file name="tulip-690320_640.jpg" crc="95684739" seo="true" ref="index"/>
-    <file name="landscape-411712_640.jpg" crc="290144159" seo="true" ref="index"/>
-    <file name="pine-273826_640.jpg" crc="3867201506" seo="true" ref="index"/>
+    <file name="image_four.jpg" crc="280761805" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:physics:periodic-moton"/>
+    <file name="istock-520374378.jpg" crc="352419569" seo="true" ref="index"/>
+    <file name="freedom-to-go-for-online-930x450.jpg" crc="3956815023" seo="true" ref="index"/>
+    <file name="ar2.png" crc="54280652" ref="index:physics:periodic-moton"/>
+    <file name="ar.png" crc="396165195" ref="index:physics:periodic-moton"/>
+    <file name="loading.gif" crc="3815509949" ref="index:physics:periodic-moton"/>
+    <file name="online-education-illustration.jpg" crc="188969935" seo="true" ref="index"/>
+    <file name="12.jpg" crc="118613796" seo="true" ref="index"/>
+    <file name="online-learning-trends-small-570x256.jpg" crc="4008555928" seo="true" ref="index"/>
     <file name="amazing-701679_1280.jpg" crc="99989210" ref="index"/>
-    <file name="logo.png" crc="3944583414" seo="true" ref="index"/>
     <file name="twitter.png" crc="4102706121" ref="index"/>
     <file name="pinterest.png" crc="4214682508" ref="index"/>
     <file name="facebook.png" crc="317936629" ref="index"/>
     <file name="youtube.png" crc="442611654" ref="index"/>
     <file name="instagram.png" crc="260457741" ref="index"/>
+    <file name="physics2.jpg" crc="414313790" seo="true" ref="physics"/>
+    <file name="physics_650x400_51489484821.jpg" crc="382315029" seo="true" ref="physics"/>
+    <file name="studiuj_u_nas_1jpg848x360_q85.jpg" crc="3993223377" seo="true" ref="physics:periodic-moton"/>
+    <file name="alab34_hd.jpg" crc="3881877806" seo="true" ref="periodic-moton"/>
   </folder>
-  <file name="index.html" crc="4205493946" seo="true" mt="1519149575050" redirect="true"/>
+  <file name="index.html" crc="187462368" seo="true" mt="1519530707111" redirect="true"/>
+  <file name="physics.html" crc="240498936" seo="true" mt="1519531240875" redirect="true"/>
+  <file name="chemistry.html" crc="525740775" seo="true" mt="1519487444422" redirect="false"/>
+  <file name="biology.html" crc="3935474742" seo="true" mt="1519487497531" redirect="false"/>
+  <file name="math.html" crc="8225466" seo="true" mt="1519487502999" redirect="false"/>
+  <file name="periodic-moton.html" crc="3769525648" seo="true" mt="1519531157087" redirect="true"/>
 </manifest>
