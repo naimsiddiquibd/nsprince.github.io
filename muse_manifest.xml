@@ -1,82 +1,55 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bdsciencezone.com" resolutions="1x" timestamp="1519696071022">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tredfixx.tk" resolutions="1x" timestamp="1520913812365">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="periodic-moton.css" crc="3996573802" ref="periodic-moton"/>
-    <file name="ampere_s-law.css" crc="4265770378" ref="ampere’s-law"/>
-    <file name="untitled-17.css" crc="44767956" ref="untitled-17"/>
-    <file name="math.css" crc="44767956" ref="math"/>
-    <file name="newton_s-third-law-of-motion.css" crc="4049492692" ref="newton’s-third-law-of-motion"/>
-    <file name="untitled-16.css" crc="44767956" ref="untitled-16"/>
-    <file name="biology.css" crc="44767956" ref="biology"/>
-    <file name="newton_s-second-law-of-motion.css" crc="3794843205" ref="newton’s-second-law-of-motion"/>
-    <file name="vectors.css" crc="28567215" ref="vectors"/>
-    <file name="chemistry.css" crc="4200764763" ref="chemistry"/>
-    <file name="newton_s-first-law-of-motion.css" crc="327028390" ref="newton’s-first-law-of-motion"/>
-    <file name="physical-world---measurement.css" crc="44767956" ref="physical-world---measurement"/>
-    <file name="physics.css" crc="114903249" ref="physics"/>
-    <file name="kirchhoff_s-law.css" crc="4228959881" ref="kirchhoff’s-law"/>
-    <file name="index.css" crc="3779391611" ref="index"/>
-    <file name="physics-laws.css" crc="90996818" ref="physics-laws"/>
-    <file name="planck-equation.css" crc="3963708939" ref="planck-equation"/>
+    <file name="logo.css" crc="4122937229" ref="logo"/>
+    <file name="index.css" crc="3818577673" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:physics:chemistry:biology:math:periodic-moton:physics-laws:newton’s-first-law-of-motion:newton’s-second-law-of-motion:newton’s-third-law-of-motion:ampere’s-law:planck-equation:kirchhoff’s-law:physical-world---measurement:vectors:untitled-16:untitled-17"/>
-    <file name="museutils.js" crc="163421577" ref="index:physics:chemistry:biology:math:periodic-moton:physics-laws:newton’s-first-law-of-motion:newton’s-second-law-of-motion:newton’s-third-law-of-motion:ampere’s-law:planck-equation:kirchhoff’s-law:physical-world---measurement:vectors:untitled-16:untitled-17"/>
-    <file name="whatinput.js" crc="86476730" ref="index:physics:chemistry:biology:math:periodic-moton:physics-laws:newton’s-first-law-of-motion:newton’s-second-law-of-motion:newton’s-third-law-of-motion:ampere’s-law:planck-equation:kirchhoff’s-law:physical-world---measurement:vectors:untitled-16:untitled-17"/>
-    <file name="museconfig.js" crc="36584860" ref="index:physics:chemistry:biology:math:periodic-moton:physics-laws:newton’s-first-law-of-motion:newton’s-second-law-of-motion:newton’s-third-law-of-motion:ampere’s-law:planck-equation:kirchhoff’s-law:physical-world---measurement:vectors:untitled-16:untitled-17"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:physics:chemistry:biology:math:periodic-moton:physics-laws:newton’s-first-law-of-motion:newton’s-second-law-of-motion:newton’s-third-law-of-motion:ampere’s-law:planck-equation:kirchhoff’s-law:physical-world---measurement:vectors:untitled-16:untitled-17"/>
-    <file name="webpro.js" crc="3848665353" ref="index:physics:periodic-moton:vectors"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index:physics:periodic-moton:vectors"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index:physics:periodic-moton:vectors"/>
-    <file name="touchswipe.js" crc="404375771" ref="index:physics:periodic-moton:vectors"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index:physics:chemistry:biology:math:periodic-moton:physics-laws:newton’s-first-law-of-motion:newton’s-second-law-of-motion:newton’s-third-law-of-motion:ampere’s-law:planck-equation:kirchhoff’s-law:physical-world---measurement:vectors:untitled-16:untitled-17"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:logo"/>
+    <file name="museutils.js" crc="163421577" ref="index:logo"/>
+    <file name="whatinput.js" crc="86476730" ref="index:logo"/>
+    <file name="museconfig.js" crc="36584860" ref="index:logo"/>
+    <file name="webpro.js" crc="3848665353" ref="index:logo"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index:logo"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index:logo"/>
+    <file name="touchswipe.js" crc="404375771" ref="index:logo"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:logo"/>
+    <file name="require.js" crc="244322403" ref="index:logo"/>
   </folder>
   <folder name="images">
-    <file name="image_four.jpg" crc="280761805" seo="true" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:physics:periodic-moton:vectors"/>
-    <file name="istock-520374378.jpg" crc="352419569" seo="true" ref="index"/>
-    <file name="freedom-to-go-for-online-930x450.jpg" crc="3956815023" seo="true" ref="index"/>
-    <file name="ar2.png" crc="54280652" ref="index:physics:periodic-moton:vectors"/>
-    <file name="ar.png" crc="396165195" ref="index:physics:periodic-moton:vectors"/>
-    <file name="loading.gif" crc="3815509949" ref="index:physics:periodic-moton:vectors"/>
-    <file name="online-education-illustration.jpg" crc="188969935" seo="true" ref="index"/>
-    <file name="online-learning-trends-small-570x256.jpg" crc="4008555928" seo="true" ref="index"/>
-    <file name="amazing-701679_1280.jpg" crc="99989210" ref="index"/>
-    <file name="twitter.png" crc="4102706121" ref="index"/>
-    <file name="pinterest.png" crc="4214682508" ref="index"/>
-    <file name="facebook.png" crc="317936629" ref="index"/>
-    <file name="youtube.png" crc="442611654" ref="index"/>
-    <file name="instagram.png" crc="260457741" ref="index"/>
-    <file name="physics2.jpg" crc="414313790" seo="true" ref="physics"/>
-    <file name="physics_650x400_51489484821.jpg" crc="382315029" seo="true" ref="physics"/>
-    <file name="studiuj_u_nas_1jpg848x360_q85.jpg" crc="3993223377" seo="true" ref="physics:periodic-moton:vectors"/>
-    <file name="alab34_hd.jpg" crc="3881877806" seo="true" ref="periodic-moton:vectors"/>
-    <file name="units1.jpg" crc="3878311156" seo="true" ref="newton’s-first-law-of-motion"/>
-    <file name="f-=-ma-if-force-is-constant,-then-the-higher-the-mass-the-lower-the-acceleration-f-=-ma.jpg" crc="3881715215" seo="true" ref="newton’s-first-law-of-motion"/>
-    <file name="newton-2.jpg" crc="316093629" seo="true" ref="newton’s-second-law-of-motion"/>
-    <file name="third_law3.jpg" crc="204090750" seo="true" ref="newton’s-third-law-of-motion"/>
-    <file name="forces_2_carts_connected_by_string.jpg" crc="4246343887" seo="true" ref="newton’s-third-law-of-motion"/>
-    <file name="amlaw.gif" crc="4086781168" seo="true" ref="ampere’s-law"/>
-    <file name="planck21.jpg" crc="392460428" seo="true" ref="planck-equation"/>
-    <file name="kirchhoffs-current-law.jpg" crc="44966351" seo="true" ref="kirchhoff’s-law"/>
+    <file name="20171006_wall_street_training_hero_image_mlmmou.jpg" crc="4033802880" seo="true" ref="index:logo"/>
+    <file name="blank.gif" crc="4208392903" ref="index:logo"/>
+    <file name="b227eaaaad913b1a76809b970666de76.jpg" crc="220689050" seo="true" ref="index:logo"/>
+    <file name="london-tower-bridge-13894718.jpg" crc="3890005311" seo="true" ref="index:logo"/>
+    <file name="new-york-hd-wallpaper10.jpg" crc="4267833466" seo="true" ref="index:logo"/>
+    <file name="ar2.png" crc="54280652" ref="index:logo"/>
+    <file name="ar.png" crc="396165195" ref="index:logo"/>
+    <file name="loading.gif" crc="3815509949" ref="index:logo"/>
+    <file name="tredfixx logo.png" crc="4132804379" seo="true" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index:logo"/>
+    <file name="pinterest.png" crc="4214682508" ref="index:logo"/>
+    <file name="facebook.png" crc="317936629" ref="index:logo"/>
+    <file name="youtube.png" crc="442611654" ref="index:logo"/>
+    <file name="instagram.png" crc="260457741" ref="index:logo"/>
+    <file name="u1954-4.png" crc="485123612" ref="index"/>
+    <file name="u1967-4.png" crc="4211153418" ref="index"/>
+    <file name="u1985-4.png" crc="39691637" ref="index"/>
+    <file name="u2021-4.png" crc="3990476485" ref="index"/>
+    <file name="u2051-4.png" crc="4216447377" ref="index"/>
+    <file name="u1994-4.png" crc="422907003" ref="index"/>
+    <file name="u2003-4.png" crc="3855438938" ref="index"/>
+    <file name="u2024-4.png" crc="3963449730" ref="index"/>
+    <file name="u2015-4.png" crc="404368177" ref="index"/>
+    <file name="u2316-4.png" crc="485123612" ref="logo"/>
+    <file name="u2315-4.png" crc="4211153418" ref="logo"/>
+    <file name="u2287-4.png" crc="39691637" ref="logo"/>
+    <file name="u2337-4.png" crc="3990476485" ref="logo"/>
+    <file name="u2311-4.png" crc="4216447377" ref="logo"/>
+    <file name="u2327-4.png" crc="422907003" ref="logo"/>
+    <file name="u2302-4.png" crc="3855438938" ref="logo"/>
+    <file name="u2335-4.png" crc="3963449730" ref="logo"/>
+    <file name="u2324-4.png" crc="404368177" ref="logo"/>
   </folder>
-  <file name="index.html" crc="3778184785" seo="true" mt="1519695694991" redirect="true"/>
-  <file name="physics.html" crc="218566307" seo="true" mt="1519695888795" redirect="true"/>
-  <file name="chemistry.html" crc="3783100852" seo="true" mt="1519695511051" redirect="true"/>
-  <file name="biology.html" crc="3935474742" seo="true" mt="1519487497531" redirect="false"/>
-  <file name="math.html" crc="8225466" seo="true" mt="1519487502999" redirect="false"/>
-  <file name="periodic-moton.html" crc="79098230" seo="true" mt="1519695594533" redirect="true"/>
-  <file name="physics-laws.html" crc="3883768244" seo="true" mt="1519647882846" redirect="true"/>
-  <file name="newton’s-first-law-of-motion.html" crc="4240595646" seo="true" mt="1519659991085" redirect="true"/>
-  <file name="newton’s-second-law-of-motion.html" crc="113364948" seo="true" mt="1519660446425" redirect="true"/>
-  <file name="newton’s-third-law-of-motion.html" crc="3967058047" seo="true" mt="1519660921863" redirect="true"/>
-  <file name="ampere’s-law.html" crc="4286755092" seo="true" mt="1519661589458" redirect="true"/>
-  <file name="planck-equation.html" crc="3822096368" seo="true" mt="1519663174213" redirect="true"/>
-  <file name="kirchhoff’s-law.html" crc="3778728808" seo="true" mt="1519663296386" redirect="true"/>
-  <file name="physical-world---measurement.html" crc="380432737" seo="true" mt="1519663517275" redirect="false"/>
-  <file name="vectors.html" crc="3792072698" seo="true" mt="1519696040038" redirect="true"/>
-  <file name="untitled-16.html" crc="437339898" seo="true" mt="1519663503890" redirect="false"/>
-  <file name="untitled-17.html" crc="503770989" seo="true" mt="1519663505412" redirect="false"/>
+  <file name="index.html" crc="301114524" seo="true" mt="1520913590172" redirect="true"/>
+  <file name="logo.html" crc="3868959224" seo="true" mt="1520868612584" redirect="true"/>
 </manifest>

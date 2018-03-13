@@ -1,206 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://bdsciencezone.com/index.html</loc>
-    <lastmod>2018-02-27</lastmod>
+    <loc>http://tredfixx.tk/index.html</loc>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bdsciencezone.com/untitled-16.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <loc>http://tredfixx.tk/logo.html</loc>
+    <lastmod>2018-03-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bdsciencezone.com/vectors.html</loc>
-    <lastmod>2018-02-27</lastmod>
+    <loc>http://tredfixx.tk/images/b227eaaaad913b1a76809b970666de76.jpg</loc>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bdsciencezone.com/untitled-17.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <loc>http://tredfixx.tk/images/london-tower-bridge-13894718.jpg</loc>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bdsciencezone.com/kirchhoff%E2%80%99s-law.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <loc>http://tredfixx.tk/images/tredfixx%20logo.png</loc>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bdsciencezone.com/planck-equation.html</loc>
-    <lastmod>2018-02-26</lastmod>
+    <loc>http://tredfixx.tk/images/20171006_wall_street_training_hero_image_mlmmou.jpg</loc>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bdsciencezone.com/physical-world---measurement.html</loc>
-    <lastmod>2018-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/newton%E2%80%99s-third-law-of-motion.html</loc>
-    <lastmod>2018-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/newton%E2%80%99s-second-law-of-motion.html</loc>
-    <lastmod>2018-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/ampere%E2%80%99s-law.html</loc>
-    <lastmod>2018-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/physics-laws.html</loc>
-    <lastmod>2018-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/periodic-moton.html</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/newton%E2%80%99s-first-law-of-motion.html</loc>
-    <lastmod>2018-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/biology.html</loc>
-    <lastmod>2018-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/chemistry.html</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/math.html</loc>
-    <lastmod>2018-02-24</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/physics.html</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/amlaw.gif</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/planck21.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/newton-2.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/forces_2_carts_connected_by_string.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/third_law3.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/alab34_hd.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/f-=-ma-if-force-is-constant,-then-the-higher-the-mass-the-lower-the-acceleration-f-=-ma.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/units1.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/physics2.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/studiuj_u_nas_1jpg848x360_q85.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/physics_650x400_51489484821.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/freedom-to-go-for-online-930x450.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/online-learning-trends-small-570x256.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/online-education-illustration.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/kirchhoffs-current-law.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/istock-520374378.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bdsciencezone.com/images/image_four.jpg</loc>
-    <lastmod>2018-02-27</lastmod>
+    <loc>http://tredfixx.tk/images/new-york-hd-wallpaper10.jpg</loc>
+    <lastmod>2018-03-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
