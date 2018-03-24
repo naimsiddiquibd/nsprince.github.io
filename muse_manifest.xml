@@ -1,55 +1,29 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tredfixx.tk" resolutions="1x" timestamp="1520913812365">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tredfixx.com" resolutions="1x" timestamp="1521910902062">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="logo.css" crc="4122937229" ref="logo"/>
-    <file name="index.css" crc="3818577673" ref="index"/>
+    <file name="index.css" crc="4188021000" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:logo"/>
-    <file name="museutils.js" crc="163421577" ref="index:logo"/>
-    <file name="whatinput.js" crc="86476730" ref="index:logo"/>
-    <file name="museconfig.js" crc="36584860" ref="index:logo"/>
-    <file name="webpro.js" crc="3848665353" ref="index:logo"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index:logo"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index:logo"/>
-    <file name="touchswipe.js" crc="404375771" ref="index:logo"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:logo"/>
-    <file name="require.js" crc="244322403" ref="index:logo"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="20171006_wall_street_training_hero_image_mlmmou.jpg" crc="4033802880" seo="true" ref="index:logo"/>
-    <file name="blank.gif" crc="4208392903" ref="index:logo"/>
-    <file name="b227eaaaad913b1a76809b970666de76.jpg" crc="220689050" seo="true" ref="index:logo"/>
-    <file name="london-tower-bridge-13894718.jpg" crc="3890005311" seo="true" ref="index:logo"/>
-    <file name="new-york-hd-wallpaper10.jpg" crc="4267833466" seo="true" ref="index:logo"/>
-    <file name="ar2.png" crc="54280652" ref="index:logo"/>
-    <file name="ar.png" crc="396165195" ref="index:logo"/>
-    <file name="loading.gif" crc="3815509949" ref="index:logo"/>
+    <file name="20171006_wall_street_training_hero_image_mlmmou.jpg" crc="4033802880" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="b227eaaaad913b1a76809b970666de76.jpg" crc="220689050" seo="true" ref="index"/>
+    <file name="london-tower-bridge-13894718.jpg" crc="3890005311" seo="true" ref="index"/>
+    <file name="new-york-hd-wallpaper10.jpg" crc="4267833466" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u127-4.png" crc="252065986" ref="index"/>
     <file name="tredfixx logo.png" crc="4132804379" seo="true" ref="index"/>
-    <file name="twitter.png" crc="4102706121" ref="index:logo"/>
-    <file name="pinterest.png" crc="4214682508" ref="index:logo"/>
-    <file name="facebook.png" crc="317936629" ref="index:logo"/>
-    <file name="youtube.png" crc="442611654" ref="index:logo"/>
-    <file name="instagram.png" crc="260457741" ref="index:logo"/>
-    <file name="u1954-4.png" crc="485123612" ref="index"/>
-    <file name="u1967-4.png" crc="4211153418" ref="index"/>
-    <file name="u1985-4.png" crc="39691637" ref="index"/>
-    <file name="u2021-4.png" crc="3990476485" ref="index"/>
-    <file name="u2051-4.png" crc="4216447377" ref="index"/>
-    <file name="u1994-4.png" crc="422907003" ref="index"/>
-    <file name="u2003-4.png" crc="3855438938" ref="index"/>
-    <file name="u2024-4.png" crc="3963449730" ref="index"/>
-    <file name="u2015-4.png" crc="404368177" ref="index"/>
-    <file name="u2316-4.png" crc="485123612" ref="logo"/>
-    <file name="u2315-4.png" crc="4211153418" ref="logo"/>
-    <file name="u2287-4.png" crc="39691637" ref="logo"/>
-    <file name="u2337-4.png" crc="3990476485" ref="logo"/>
-    <file name="u2311-4.png" crc="4216447377" ref="logo"/>
-    <file name="u2327-4.png" crc="422907003" ref="logo"/>
-    <file name="u2302-4.png" crc="3855438938" ref="logo"/>
-    <file name="u2335-4.png" crc="3963449730" ref="logo"/>
-    <file name="u2324-4.png" crc="404368177" ref="logo"/>
   </folder>
-  <file name="index.html" crc="301114524" seo="true" mt="1520913590172" redirect="true"/>
-  <file name="logo.html" crc="3868959224" seo="true" mt="1520868612584" redirect="true"/>
+  <file name="index.html" crc="3794818813" seo="true" mt="1521910778261" redirect="true"/>
 </manifest>
