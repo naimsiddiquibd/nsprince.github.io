@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tredfixx.com" resolutions="1x" timestamp="1521910902062">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tredfixx.com" resolutions="1x" timestamp="1521914804103">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="index.css" crc="4188021000" ref="index"/>
@@ -16,6 +16,7 @@
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="favicon.ico" crc="73284845" ref="index"/>
     <file name="20171006_wall_street_training_hero_image_mlmmou.jpg" crc="4033802880" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="b227eaaaad913b1a76809b970666de76.jpg" crc="220689050" seo="true" ref="index"/>
@@ -25,5 +26,5 @@
     <file name="u127-4.png" crc="252065986" ref="index"/>
     <file name="tredfixx logo.png" crc="4132804379" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="3794818813" seo="true" mt="1521910778261" redirect="true"/>
+  <file name="index.html" crc="467044323" seo="true" mt="1521914722294" redirect="true"/>
 </manifest>
