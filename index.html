@@ -18,7 +18,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=443350757"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=4188021000" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3885576753" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -27,7 +27,141 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <script type="text/javascript">
    document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/electrolize:n4:default.js" type="text/javascript">\x3C/script>');
 </script>
-   </head>
+    <!--HTML Widget code-->
+  
+		<style>
+		
+
+/* PUSH MENU */
+#mf-menu {
+    position: fixed;
+    top: 0;
+    left: -300px;
+
+    width: 300px;
+    height: 100%;
+    padding: 50px 30px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+
+    -webkit-transition: all .3s ease-in;
+       -moz-transition: all .3s ease-in;
+         -o-transition: all .3s ease-in;
+            transition: all .3s ease-in;
+    text-align: center;
+
+    background-color: #CCCCCC;
+}
+
+#mf-menu ul {
+    padding: 0;
+    margin-top: 30px;
+}
+
+#mf-menu ul li a {
+    display: block;
+
+    line-height: 50px;
+
+    -webkit-transition: all .3s ease;
+       -moz-transition: all .3s ease;
+         -o-transition: all .3s ease;
+            transition: all .3s ease;
+    text-decoration: none;
+
+    color: #000000;
+    border-top: 1px solid #EEEEEE;
+}
+#mf-menu ul li:last-child a {
+    border-bottom: 1px solid #EEEEEE;
+}
+#mf-menu ul li a:hover {
+    letter-spacing: 1px;
+color:#FF0000;
+}
+.open #mf-menu {
+    left: 0;
+}
+/* MAIN PAGE */
+.page-wrap {
+position: absolute;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+
+    -webkit-transition: all .3s ease-in;
+       -moz-transition: all .3s ease-in;
+         -o-transition: all .3s ease-in;
+            transition: all .3s ease-in;
+}
+.open .page-wrap {
+    margin-left: 300px;
+}
+
+/* MENU TOGGLE ICON */
+
+button:focus {
+    outline: none;
+}
+#menu-toggle {
+    position: relative;
+
+    width: 51px;
+    height: 51px;
+
+    cursor: pointer;
+
+    border: none;
+    border-radius: 50px;
+    background: #FFFFFF;
+}
+#menu-toggle:before,
+#menu-toggle:after {
+    position: absolute;
+
+    content: "";
+    content: "";
+    -webkit-transition: all .5s ease;
+       -moz-transition: all .5s ease;
+         -o-transition: all .5s ease;
+            transition: all .5s ease;
+
+    background-color: #000000;
+}
+
+#menu-toggle:before {
+    top: 12px;
+    left: 25px;
+
+    width: 1px;
+    height: 27px;
+}
+#menu-toggle:after {
+    top: 25px;
+    left: 12px;
+
+    width: 27px;
+    height: 1px;
+}
+
+.open button#menu-toggle:before,
+.open button#menu-toggle:after {
+    -webkit-transform: rotate(45deg);
+        -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+}
+
+.imgClass{
+    object-fit: cover;
+    height: 85px;
+    width: 185px;
+}
+.lastItem {border-bottom: 1px solid #EEEEEE;}
+
+</style>
+	
+ </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- group -->
@@ -57,18 +191,50 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
    <div class="clearfix grpelem" id="u530-4"><!-- content -->
     <p>Contact Us</p>
    </div>
+   <img id="u127-4" alt="G r a p h i c R e s o u r c e s F o r D e s i g n e r s" width="647" height="45" src="images/u127-4.png?crc=4069545388"/><!-- rasterized frame -->
    <div class="clearfix" id="u126-4"><!-- content -->
-    <p>T r e d F i x x</p>
+    <p>T R E D F I X X</p>
    </div>
-   <img id="u127-4" alt="G r a p h i c R e s o u r c e s F o r D e s i g n e r s" width="562" height="41" src="images/u127-4.png?crc=252065986"/><!-- rasterized frame -->
    <div class="clip_frame" id="u234"><!-- image -->
     <img class="block" id="u234_img" src="images/tredfixx%20logo.png?crc=4132804379" alt="" width="117" height="137"/>
+   </div>
+   <div class="clearfix grpelem" id="pu834-4"><!-- column -->
+    <div class="clearfix colelem" id="u834-4"><!-- content -->
+     <p>Hire Us</p>
+    </div>
+    <div class="size_fixed colelem" id="u763"><!-- custom html -->
+     
+ <nav id="mf-menu" role="navigation">
+        <div class="brand">
+            <a href="#"><img class="imgClass" src="assets/full-logo.png" alt="Logo"/></a>
+        </div>            
+        <ul>
+            <li class="lineClass"><a class="linkClass" href="#">Hire Us</a></li>
+            <li class="lineClass"><a class="linkClass" href="#">Contact Us</a></li>
+            <li class="lineClass"><a class="linkClass" href="#">About Us</a></li>
+            <li class="lineClass"><a class="linkClass" href="#">Follow Us</a></li>
+            <li class="lastItem"></li>
+        </ul>
+    </nav>
+
+    <div class="page-wrap">
+        <button id="menu-toggle"></button>
+      </div>
+
+    </div>
    </div>
    <div class="clearfix grpelem" id="u537-4"><!-- content -->
     <p>About Us</p>
    </div>
    <div class="verticalspacer" data-offset-top="448" data-content-above-spacer="447" data-content-below-spacer="831"></div>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    window.Muse.assets.check=function(d){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},c=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),
@@ -90,5 +256,50 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=244322403" type="text/javascript" async data-main="scripts/museconfig.js?crc=36584860" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+<script>
+$('.lineClass a:empty').parent().hide();
+
+//Exelent little functions to use any time when class modification is needed
+function hasClass(ele, cls) {
+    return !!ele.className.match(new RegExp('(\\s|^)' + cls + '(\\s|$)'));
+}
+
+function addClass(ele, cls) {
+    if (!hasClass(ele, cls)) ele.className += " " + cls;
+}
+
+function removeClass(ele, cls) {
+    if (hasClass(ele, cls)) {
+        var reg = new RegExp('(\\s|^)' + cls + '(\\s|$)');
+        ele.className = ele.className.replace(reg, ' ');
+    }
+}
+
+//Add event from js the keep the marup clean
+function init() {
+    document.getElementById("menu-toggle").addEventListener("click", toggleMenu);
+}
+
+//The actual fuction
+function toggleMenu() {
+    var ele = document.getElementsByTagName('body')[0];
+    if (!hasClass(ele, "open")) {
+        addClass(ele, "open");
+    } else {
+        removeClass(ele, "open");
+    }
+}
+
+//Prevent the function to run before the document is loaded
+document.addEventListener('readystatechange', function() {
+    if (document.readyState === "complete") {
+        init();
+    }
+});
+</script>
+	
    </body>
 </html>

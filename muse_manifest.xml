@@ -1,7 +1,10 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tredfixx.com" resolutions="1x" timestamp="1521914804103">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="Tredfixx.com" resolutions="1x" timestamp="1521959712978">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4188021000" ref="index"/>
+    <file name="index.css" crc="3885576753" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="full-logo.png" crc="250404335" seo="true" mt="1521957807000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,8 +26,8 @@
     <file name="london-tower-bridge-13894718.jpg" crc="3890005311" seo="true" ref="index"/>
     <file name="new-york-hd-wallpaper10.jpg" crc="4267833466" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u127-4.png" crc="252065986" ref="index"/>
+    <file name="u127-4.png" crc="4069545388" ref="index"/>
     <file name="tredfixx logo.png" crc="4132804379" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="467044323" seo="true" mt="1521914722294" redirect="true"/>
+  <file name="index.html" crc="158607520" seo="true" mt="1521959264929" redirect="true"/>
 </manifest>
