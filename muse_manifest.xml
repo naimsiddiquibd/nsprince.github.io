@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tredfixx.com" resolutions="1x" timestamp="1525108374771">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tredfixx.com" resolutions="1x" timestamp="1525109065235">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="336153258" ref="index"/>
+    <file name="index.css" crc="3775442159" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -23,5 +23,5 @@
     <file name="web_analytics_uiux_design_prototype_multi_screen.jpg" crc="4018467709" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
   </folder>
-  <file name="index.html" crc="47175345" seo="true" mt="1525107776846" redirect="true"/>
+  <file name="index.html" crc="3923958918" seo="true" mt="1525108926986" redirect="true"/>
 </manifest>
