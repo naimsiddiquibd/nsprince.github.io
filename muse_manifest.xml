@@ -1,27 +1,38 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tredfixx.com" resolutions="1x" timestamp="1525109065235">
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="tredfixx.com" resolutions="1x" timestamp="1525279386000">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="3775442159" ref="index"/>
+    <file name="index.css" crc="3784434645" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:index"/>
+    <file name="museutils.js" crc="163421577" ref="phone>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:index"/>
+    <file name="museconfig.js" crc="36584860" ref="phone>index:index"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="phone>index:index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="phone>index:index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:index"/>
+    <file name="require.js" crc="244322403" ref="phone>index:index"/>
     <file name="webpro.js" crc="3848665353" ref="index"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
     <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
     <file name="58c91e077fce8_thumb900.jpg" crc="4264579553" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
     <file name="web_analytics_uiux_design_prototype_multi_screen.jpg" crc="4018467709" seo="true" ref="index"/>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="twitter.png" crc="4102706121" ref="index"/>
+    <file name="pinterest.png" crc="4214682508" ref="index"/>
+    <file name="facebook.png" crc="317936629" ref="index"/>
+    <file name="youtube.png" crc="442611654" ref="index"/>
+    <file name="instagram.png" crc="260457741" ref="index"/>
   </folder>
-  <file name="index.html" crc="3923958918" seo="true" mt="1525108926986" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="160900074" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3965151529" seo="true" mt="1525230281308" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="144349899" seo="true" mt="1525279314947" redirect="true"/>
 </manifest>
